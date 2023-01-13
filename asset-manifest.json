@@ -1,21 +1,21 @@
 {
   "files": {
-    "app.js": "/rkojo.github.io/static/js/app.c288fc1b.chunk.js",
-    "app.js.map": "/rkojo.github.io/static/js/app.c288fc1b.chunk.js.map",
-    "runtime~app.js": "/rkojo.github.io/static/js/runtime~app.815d94b9.js",
-    "runtime~app.js.map": "/rkojo.github.io/static/js/runtime~app.815d94b9.js.map",
-    "static/js/2.8044b8ac.chunk.js": "/rkojo.github.io/static/js/2.8044b8ac.chunk.js",
-    "static/js/2.8044b8ac.chunk.js.map": "/rkojo.github.io/static/js/2.8044b8ac.chunk.js.map",
-    "favicon-16.png": "/rkojo.github.io/favicon-16.png",
-    "favicon-32.png": "/rkojo.github.io/favicon-32.png",
-    "favicon.ico": "/rkojo.github.io/favicon.ico",
-    "index.html": "/rkojo.github.io/index.html",
-    "manifest.json": "/rkojo.github.io/manifest.json",
-    "serve.json": "/rkojo.github.io/serve.json",
-    "static/js/2.8044b8ac.chunk.js.LICENSE.txt": "/rkojo.github.io/static/js/2.8044b8ac.chunk.js.LICENSE.txt"
+    "app.js": "/static/js/app.c288fc1b.chunk.js",
+    "app.js.map": "/static/js/app.c288fc1b.chunk.js.map",
+    "runtime~app.js": "/static/js/runtime~app.27401809.js",
+    "runtime~app.js.map": "/static/js/runtime~app.27401809.js.map",
+    "static/js/2.8044b8ac.chunk.js": "/static/js/2.8044b8ac.chunk.js",
+    "static/js/2.8044b8ac.chunk.js.map": "/static/js/2.8044b8ac.chunk.js.map",
+    "favicon-16.png": "/favicon-16.png",
+    "favicon-32.png": "/favicon-32.png",
+    "favicon.ico": "/favicon.ico",
+    "index.html": "/index.html",
+    "manifest.json": "/manifest.json",
+    "serve.json": "/serve.json",
+    "static/js/2.8044b8ac.chunk.js.LICENSE.txt": "/static/js/2.8044b8ac.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime~app.815d94b9.js",
+    "static/js/runtime~app.27401809.js",
     "static/js/2.8044b8ac.chunk.js",
     "static/js/app.c288fc1b.chunk.js"
   ]
