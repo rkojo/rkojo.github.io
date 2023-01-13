@@ -1,7 +1,7 @@
 {
   "files": {
-    "app.js": "/rkojo.github.io/static/js/app.c2ace464.chunk.js",
-    "app.js.map": "/rkojo.github.io/static/js/app.c2ace464.chunk.js.map",
+    "app.js": "/rkojo.github.io/static/js/app.c9de34f6.chunk.js",
+    "app.js.map": "/rkojo.github.io/static/js/app.c9de34f6.chunk.js.map",
     "runtime~app.js": "/rkojo.github.io/static/js/runtime~app.815d94b9.js",
     "runtime~app.js.map": "/rkojo.github.io/static/js/runtime~app.815d94b9.js.map",
     "static/js/2.8044b8ac.chunk.js": "/rkojo.github.io/static/js/2.8044b8ac.chunk.js",
@@ -17,6 +17,6 @@
   "entrypoints": [
     "static/js/runtime~app.815d94b9.js",
     "static/js/2.8044b8ac.chunk.js",
-    "static/js/app.c2ace464.chunk.js"
+    "static/js/app.c9de34f6.chunk.js"
   ]
 }
