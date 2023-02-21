@@ -1,24 +1,24 @@
 {
   "files": {
-    "app.js": "/static/js/app.53abe1ae.chunk.js",
-    "app.js.map": "/static/js/app.53abe1ae.chunk.js.map",
+    "app.js": "/static/js/app.871f136c.chunk.js",
+    "app.js.map": "/static/js/app.871f136c.chunk.js.map",
     "runtime~app.js": "/static/js/runtime~app.27401809.js",
     "runtime~app.js.map": "/static/js/runtime~app.27401809.js.map",
-    "static/js/2.6e8457cc.chunk.js": "/static/js/2.6e8457cc.chunk.js",
-    "static/js/2.6e8457cc.chunk.js.map": "/static/js/2.6e8457cc.chunk.js.map",
+    "static/js/2.9bd2ab31.chunk.js": "/static/js/2.9bd2ab31.chunk.js",
+    "static/js/2.9bd2ab31.chunk.js.map": "/static/js/2.9bd2ab31.chunk.js.map",
     "favicon-16.png": "/favicon-16.png",
     "favicon-32.png": "/favicon-32.png",
     "favicon.ico": "/favicon.ico",
     "index.html": "/index.html",
     "manifest.json": "/manifest.json",
     "serve.json": "/serve.json",
-    "static/js/2.6e8457cc.chunk.js.LICENSE.txt": "/static/js/2.6e8457cc.chunk.js.LICENSE.txt",
+    "static/js/2.9bd2ab31.chunk.js.LICENSE.txt": "/static/js/2.9bd2ab31.chunk.js.LICENSE.txt",
     "static/media/gamepage.png": "/static/media/gamepage.58b708ac.png",
     "static/media/homepage.png": "/static/media/homepage.f44ffe69.png"
   },
   "entrypoints": [
     "static/js/runtime~app.27401809.js",
-    "static/js/2.6e8457cc.chunk.js",
-    "static/js/app.53abe1ae.chunk.js"
+    "static/js/2.9bd2ab31.chunk.js",
+    "static/js/app.871f136c.chunk.js"
   ]
 }
